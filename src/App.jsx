@@ -1,4 +1,5 @@
-import WeatherInfo from "./components/WeatherInfo"
+import WeatherInfo from "./components/WeatherInfo/WeatherInfo"
+
 
 function App() {
 

@@ -1,0 +1,16 @@
+.weatherCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    width: 80%;
+    margin-top: 24px;
+}
+
+.weatherCard {
+    text-align: center;
+    min-width: 15rem;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px #bbbbbb;
+}

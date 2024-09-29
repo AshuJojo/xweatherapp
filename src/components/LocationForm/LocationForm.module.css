@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+    gap: 8px;
+}
+
+.input{
+    padding: 8px;
+    outline: none;
+    border: 0px;
+    border-radius: 4px;
+}
+
+.button{
+    border: 0px;
+    width:70px;
+    border-radius: 4px;
+    background-color: #4caf50;
+    color: white;
+}
